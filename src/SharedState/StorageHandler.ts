@@ -1,4 +1,5 @@
-import { AppState, AppStateStatus, AsyncStorage } from 'react-native';
+import { AppState, AppStateStatus } from 'react-native';
+import AsyncStorage from '@react-native-community/async-storage';
 //@ts-ignore
 import CryptoJS from 'react-native-crypto-js';
 
